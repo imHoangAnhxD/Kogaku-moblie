@@ -499,7 +499,7 @@ section.section-footer .all-box .box-1 .title-ft a:hover {
 
 
 
-@media (min-width: 575px) {
+@media (min-width: 769px) {
   section.section-footer .all-box-mb {
     position: absolute;
     display: none;
