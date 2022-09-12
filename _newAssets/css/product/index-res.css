@@ -37,6 +37,10 @@
     section.section-4 .all-box .all-box-gray .box-in-gray.sliver .line{
         width: 55px;
     }
+    section.section-gray-double .title h1 {
+        font-size: 17px;
+        
+    }
 }
 @media (min-width: 1200px){
 
