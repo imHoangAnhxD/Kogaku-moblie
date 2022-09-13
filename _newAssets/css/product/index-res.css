@@ -134,6 +134,37 @@
     section.section-6 .all-box .box-left .btn-box-left .bg-btn .icon-arr img {
         width: 2vw;
     }
+    .btn-center {
+        background-color: var(--color-bg-btn-orange);
+        display: flex;
+        align-items: center;
+        width: 65vw;
+        height: 14vw;
+        padding: 1.5vw;
+        border-radius: 7vw;
+        border: 0.5vw solid var(--color-boder-btn-orange);
+        box-shadow: 0 0.3vw 0.3vw 0.2vw rgb(45 45 45 / 25%);
+    }
+    section.section-5 .btn-out span {
+        font-size: 3.5vw;
+        margin-left: 11vw;
+        letter-spacing: .2vw;
+        color: white;
+    }
+    section.section-5 .btn-out .icon-arr {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        background-color: white;
+        border-radius: 5vw;
+        width: 5vw;
+        height: 5vw;
+        margin-right: 2vw;
+        padding: 0.6vw;
+    }
+    section.section-5 .btn-out .icon-arr img {
+        width: 2vw;
+    }
 }
 @media (min-width: 1200px){
 
