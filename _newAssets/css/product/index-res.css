@@ -1,5 +1,7 @@
 @media (min-width: 375px) and (max-width:1200px){
-  
+    section.section-search .all-box-search{
+        display: none;
+    }
 
     section.section-4 .all-box {
         width: 325px;
@@ -28,7 +30,7 @@
         width: 55px;
     }
     section.section-gray-double .title h1 {
-        font-size: 17px;
+        font-size: 15px;
         
     }
     section.section-4 .all-box .all-box-sky .box-gray {
@@ -46,7 +48,92 @@
         color:white;
         
     }
-   
+    section.section-gray-double .all-box a {
+        margin: 0px 2px;
+        margin-left: 14px;
+    }
+    section.section-gray-double .all-box .box-1{
+        width: 160px;
+    }
+    section.section-gray-double .all-box .box-1 .title-box-1{
+        margin-left: -4px;
+    }
+    section.section-gray-double .all-box .box-1 .icon-arrow{
+        padding:12px;
+    }
+    section.section-gray-double .all-box .box-1 .title-box-1 h1 {
+        font-size: 16px;
+    }
+    section.section-gray-double .all-box .box-1 .title-box-1 {
+        margin-left: -4px;
+        margin-top: -21px;
+    }
+    section.section-6 .all-box{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 30px; 
+        
+    }
+    section.section-6 .all-box .box-right .image img{
+        width: 350px;
+        margin-top: -250px;
+        display: block; 
+        margin-left: auto; 
+        margin-right: auto;
+    }
+    section.section-6 .all-box .box-left .title h1{
+        font-size: 20px;
+        margin-top: 20px;
+        width: 70vw;
+        line-height:30px;
+        
+    }
+    section.section-6 .all-box .box-left .title span {
+        display: flex;
+        font-size: 16px;
+        width: 91vw;
+        position: absolute;
+        top: 81vw;
+        margin-left: -6vw;
+        line-height: 5vw;
+        letter-spacing: 0px;
+    }
+    section.section-6{
+        height: 130vw;
+    }
+    section.section-6 .all-box .box-left .btn-box-left .bg-btn {
+        background-color: var(--color-bg-btn-orange);
+        display: flex;
+        align-items: center;
+        width: 90vw;
+        margin-left: -7vw;
+        margin-top: 106vw;
+        height: 12vw;
+        padding: 1.5vw;
+        border-radius: 6vw;
+        border: 0.5vw solid var(--color-boder-btn-orange);
+        box-shadow: 0 0.3vw 0.3vw 0.2vw rgb(45 45 45 / 25%);
+    }
+    section.section-6 .all-box .box-left .btn-box-left h1 {
+        font-size: 18px;
+        margin-left: 23vw;
+        letter-spacing: .2vw;
+        color: white;
+    }
+    section.section-6 .all-box .box-left .btn-box-left .bg-btn .icon-arr {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        background-color: white;
+        border-radius: 5vw;
+        width: 5vw;
+        height: 5vw;
+        
+        margin-right: 2vw;
+    }
+    section.section-6 .all-box .box-left .btn-box-left .bg-btn .icon-arr img {
+        width: 2vw;
+    }
 }
 @media (min-width: 1200px){
 
