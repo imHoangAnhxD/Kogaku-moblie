@@ -845,6 +845,9 @@ section.section-4 .all-box .all-box-blue .box-gray {
     width: 100%;
     display: flex;
     justify-content: center;
+    color:white;
+    background-color: rgb(225, 225, 225);
+    font-size: 12px;
 }
 
 section.section-4 .all-box .all-box-blue.box-1-in-3 .box-gray {
@@ -883,12 +886,18 @@ section.section-4 .all-box .all-box-sky .box-sky {
 }
 
 section.section-4 .all-box .all-box-sky .box-gray {
-    padding: 4px 0;
-    margin: 2px;
-    width: 100%;
-    border-radius: 5px;
+    background-color: rgb(225, 225, 225);
     border: 1px solid #d1d1d1;
+    color: white;
+    margin: 2px;
+    padding: 4px 0;
+    font-size: 14px;
+    border-radius: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
     height: 35px;
+    align-items: center;
 }
 
 section.section-4 .all-box .all-box-sky .box-center {
