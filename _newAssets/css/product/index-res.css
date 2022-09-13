@@ -1,21 +1,5 @@
 @media (min-width: 375px) and (max-width:1200px){
-    nav.link-resource{
-        display: none;
-    }
-    section.slide{
-        display: none;
-    }
-    .container-section-3{
-        display: none;
-    }
-    section.section-2{
-        display: none;
-
-    }
-    section.section-search .all-box-search{ 
-        display: none;
-    }
-
+  
 
     section.section-4 .all-box {
         width: 325px;
