@@ -213,7 +213,7 @@
 }
 
 .header nav .navbar-collapse .navbar-in ul li .img-drop {
-    background-image: url(../common/dropdown-img.png);
+    background-image: url(../image/common/dropdown-img.png);
     width: 20vw;
     height: 35vw;
     background-size: cover;
@@ -689,7 +689,7 @@ section.slide #carouselExampleIndicators {
 
 
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
     /* slider */
     .carousel-inner-pc {
         display: block !important;
